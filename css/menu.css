@@ -1,0 +1,31 @@
+nav{
+    background-color: #000;
+    color: white;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+}
+
+.menu li {
+    width: 10%;
+    list-style: none;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.logo{
+   flex-grow: 3;
+}
+
+.logo img {
+    width: 10%;
+    padding: 1% 2% 1% 5%;
+    
+}
+
